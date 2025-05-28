@@ -4,7 +4,7 @@
 
 A simple web part to help you notice whenever a special day is coming up, say your 3000th day with the company, this a pretty simple web part, but demonstrates usage of React hooks, and the use of the LocalStorage API, to store information on the users machine. 
 
-![Sample gif](./assets/Demo.gif)
+![Sample gif](assets/Demo.gif)
 
 ## Compatibility
 
